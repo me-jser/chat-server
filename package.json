@@ -1,0 +1,30 @@
+{
+  "name": "chat-server",
+  "version": "0.1.0",
+  "description": "nodejs chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/me-jser/chat-server.git"
+  },
+  "keywords": [
+    "nodejs",
+    "chat",
+    "websocket"
+  ],
+  "author": "John Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/me-jser/chat-server/issues"
+  },
+  "homepage": "https://github.com/me-jser/chat-server#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jasmine-node": "^1.14.5",
+    "socket.io": "^2.1.0"
+  }
+}
