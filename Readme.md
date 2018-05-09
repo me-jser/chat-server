@@ -1,4 +1,4 @@
-A nodejs chat server
+A nodeJs chat server
 ___
 
 ### scripts
