@@ -1,3 +1,3 @@
-export default log(param){
-    console.log(param)
+export function loadRoutes(){
+    //TODO:AUTO generat router with floder
 }
